@@ -17,12 +17,8 @@ import { ChatService } from "../services/chat";
 import { DatePipe } from '@angular/common';
 
 export const firebaseConfig={
-    apiKey: "AIzaSyDUmqgZZkAl-TtejrW7dwNfsZKWmst1xYM",
-    authDomain: "chat-50afe.firebaseapp.com",
-    databaseURL: "https://chat-50afe.firebaseio.com",
-    projectId: "chat-50afe",
-    storageBucket: "chat-50afe.appspot.com",
-    messagingSenderId: "607379370887"
+    apiKey: "AIzaSyDAEQRme7bXFnCSJVtWP-T3Tn_EKxwNZ9I",
+    authDomain: "chat-12fc2.firebaseapp.com"
 }
 
 @NgModule({
